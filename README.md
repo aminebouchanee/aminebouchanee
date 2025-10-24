@@ -1,26 +1,67 @@
-<h1 align="center">Hi 👋, I'm Mohammed Amine Bouchane</h1>
-<h3 align="center">💻 A passionate software engineer and web developer from Morocco</h3>
+<!-- 💫 Animated GitHub Profile by Mohammed Amine Bouchane -->
 
-- 🔭 I’m currently working on **Vehicle Maintenance Management System**
+<h1 align="center">Hi 👋, I'm <span style="color:#4FC3F7;">Mohammed Amine Bouchane</span></h1>
+<h3 align="center">💻 Passionate Software Engineer & Fullstack Web Developer from Morocco 🇲🇦</h3>
 
-- 🌱 I’m currently learning **Django REST Framework, React.js, and DevOps (Azure)**
-
-- 👯 I’m looking to collaborate on **Fullstack Web Applications**
-
-- 🤝 I’m looking for help with **Deploying scalable Django applications on cloud platforms**
-
-- 📝 I regularly write articles on [Soon on my personal blog — stay tuned!](Soon on my personal blog — stay tuned!)
-
-- 💬 Ask me about **Python, Django, React, SQL, or software architecture...**
-
-- 📫 How to reach me **aminebouchane45@gmail.com**
-
-- ⚡ Fun fact **I can code for hours with music and coffee ☕💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aminebouchane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminebouchane" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aminebouchanee&label=Profile%20views&color=0e75b6&style=flat" alt="aminebouchanee" />
+  <img src="https://img.shields.io/badge/Focus-Django%20%7C%20React%20%7C%20DevOps-blue" />
+  <img src="https://img.shields.io/badge/From-Morocco-FF0000?style=flat&logo=google-earth" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me  
+
+- 🔭 I’m currently working on **Vehicle Maintenance Management System**  
+- 🌱 I’m learning **Django REST Framework, React.js, and DevOps (Azure)**  
+- 👯 I’m open to collaborate on **Fullstack Web Applications**  
+- 🤝 I’m looking for help with **Deploying scalable Django apps to the cloud**  
+- 📝 I’ll soon start writing on my **[Personal Tech Blog](#)** — stay tuned!  
+- 💬 Ask me about **Python, Django, React, SQL, or Software Architecture**  
+- 📫 Reach me at **aminebouchane45@gmail.com**  
+- ⚡ Fun fact: **Music + Coffee + Code = Productivity ☕💻**  
+
+---
+
+### 🌐 Connect with me  
+<p align="center">
+  <a href="https://linkedin.com/in/aminebouchane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/aminebouchanee" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://twitter.com/aminebouchanee" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://dev.to/aminebouchane" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"/></a>
+  <a href="https://www.codewars.com/users/aminebouchanee" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,php,mysql,postgresql,azure,docker,git,linux,java,spring,nodejs,c,cpp,cs" />
+</p>
+
+---
+
+### ⚙️ GitHub Analytics  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aminebouchanee&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aminebouchanee&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminebouchanee&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🎵 Just for Fun  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Problem+Solver;Passionate+about+Clean+Code+%26+Innovation;Lifelong+Learner+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+⭐ **“Code. Learn. Share. Repeat.”**  
+<p align="center">Built with ❤️ by <strong>Mohammed Amine Bouchane</strong></p>
